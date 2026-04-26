@@ -23,7 +23,7 @@ from aiogram.types import (
 # CONFIG
 # =========================
 TOKEN = os.getenv("BOT_TOKEN", "8707891025:AAHn0t0O6HX0I_Fhf1x0D1N1njyIy_HGSPs")
-ADMIN_IDS = {5815040020}
+ADMIN_IDS = {5815040020,8189956093}
 BOT_NAME = os.getenv("BOT_NAME", "ARPAN X LIVE STORE")
 QR_PATH = os.getenv("QR_PATH", "qr.png")
 UPI_ID = os.getenv("UPI_ID", "arpam.bistan.ag@fam")
